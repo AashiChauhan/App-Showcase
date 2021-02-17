@@ -1,0 +1,18 @@
+body{
+    @import url(https://fonts.googleapis.com/css?family=Lora|PT+Serif|Montserrat:700|Open+Sans:700|Libre+Baskerville|Roboto:300,400,700|Noto+Serif|Roboto+Slab:400,700);
+    }
+body{
+  text-align:center;
+  font-family: "lora";
+  font-size: 16px;
+  padding: 5% 20%;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat";
+}
+img{
+    height:200;
+        width:300;
+}
